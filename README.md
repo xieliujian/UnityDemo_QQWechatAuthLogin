@@ -1,0 +1,2 @@
+# UnityDemo_QQWechatAuthLogin
+QQWechatAuthLogin的Demo展示使用ShareSDK进行QQ和Wechat登录
